@@ -1,0 +1,8 @@
+{
+  "name": "Muleka AI Studio",
+  "description": "Мөлдірдің креативті AI-студиясы: ерекше фото мен видео жасау, бизнесті визуалдау және AI курстары.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
